@@ -4,7 +4,7 @@
  * ----
  * Exmaple of the data below, you only require the array in the data array other data is just for reference on what to look for
  */
-export const placementTiles = [
+export const placementTilesData = [
   /*
     "data":[0, 0, 14, 0, 14, 0, 14, 0, 14, 0, 14, 0, 14, 0, 0, 0, 0, 0, 0, 0,
         0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 14, 0, 0, 0, 0, 0, 0,
